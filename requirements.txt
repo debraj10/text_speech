@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 pydantic
+pygame
 scikit-learn
 numpy
 gtts
